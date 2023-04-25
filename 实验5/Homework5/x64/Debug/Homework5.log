@@ -1,0 +1,11 @@
+﻿  exercise5.cpp
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(20,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(14,9): warning C4101: “a”: 未引用的局部变量
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(14,11): warning C4101: “beta”: 未引用的局部变量
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(112,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(110,12): warning C4101: “a”: 未引用的局部变量
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(110,15): warning C4101: “beta”: 未引用的局部变量
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(183,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(181,12): warning C4101: “a”: 未引用的局部变量
+C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\exercise5.cpp(181,15): warning C4101: “beta”: 未引用的局部变量
+  Homework5.vcxproj -> C:\Users\郑涛\Desktop\数值代数\数值代数实验\实验五\Homework5\x64\Debug\Homework5.exe
